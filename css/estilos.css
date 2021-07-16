@@ -1,6 +1,6 @@
 body
 {   
-    color: burlywood;
+    color: darkslategrey;
     text-align: center;
     font-family: 'Arial';
     margin: 0;
@@ -9,9 +9,9 @@ body
 
 #cabecera
 {
-    background: hotpink;
+    background: midnightblue;
     color: whitesmoke;
-    box-shadow: 0px 2px 50px 0px cornflowerblue;
+    box-shadow: 0px 2px 50px 0px gray;
     margin: 0;
     padding: 0.5em;
     font-family: 'Arial';
@@ -32,14 +32,14 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid hotpink;
+    border: 1px solid darkslategrey;
     margin: 0 auto;
 }
 
 #container h1
 {
     font-size: 30px;
-    color: cornflowerblue;
+    color: black;
     padding: 3px;
 }
 
